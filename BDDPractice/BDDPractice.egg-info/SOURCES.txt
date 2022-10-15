@@ -1,0 +1,13 @@
+setup.py
+BDDCommon/__init__.py
+BDDCommon/CommonConfigs/__init__.py
+BDDCommon/CommonConfigs/locatorsconfig.py
+BDDCommon/CommonConfigs/urlconfig.py
+BDDCommon/CommonFuncs/__init__.py
+BDDCommon/CommonFuncs/webcommon.py
+BDDCommon/CommonSteps/__init__.py
+BDDCommon/CommonSteps/webstepscommon.py
+BDDPractice.egg-info/PKG-INFO
+BDDPractice.egg-info/SOURCES.txt
+BDDPractice.egg-info/dependency_links.txt
+BDDPractice.egg-info/top_level.txt
